@@ -1,6 +1,6 @@
-# best-repo-ever
+# best-repo-ever(kinda)
 
-# Salesforce Training Repo
+# Salesforce Training Repository
 
 Este repositorio está diseñado para almacenar y gestionar materiales de capacitación relacionados con Salesforce.
 
